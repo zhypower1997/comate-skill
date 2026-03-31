@@ -56,6 +56,13 @@
 每次生成完提示词后，会自动保存到 `components/{ComponentName}.md`，供后续 AI 通过标签和视觉信号匹配复用。
 
 
+## 制作过程
+初始化
+![alt text](image-5.png)
+还能取其精华去其糟粕
+![alt text](image-6.png)
+
+
 ## 示例
 - UI原型图：
 ![alt text](image.png)
